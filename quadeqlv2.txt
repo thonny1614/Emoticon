@@ -1,0 +1,12 @@
+2x^2 - 5x - 3 = 0 -1,1.5
+The coefficents are odd see if you can use completing the square or quadratic formula
+Remember a, b and c terms for the quadratic formula and that you need to add b^2 / 4 to both sides to complete the square
+3x^2 + 6x - 9 = 0 -3,1
+this whole equation can be divided by a single number
+you can divide this equation by a single number and that you can factor by using 3 and -3 for the two binomials
+x^2 -4x + 4 = 0 2
+There is only one solution
+-2 and -2 add to -4 and multiply to 4 making it the number to use when factoring
+4x^2 - 12x = 0 0,3
+Take the x out
+Divide the whole left side by x then solve for x both outside and inside the parentheses

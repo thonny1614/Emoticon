@@ -1,0 +1,12 @@
+5x^2 + 7x - 2 = 0 -1,0.4
+The quadratic equation and completing the square are good for this 
+Remember a, b and c terms for the quadratic formula and that you need to add b^2 / 4 to both sides to complete the square
+2x^2 -3x + 1 = 0 1,0.5
+The quadratic equation and completing the square are good for this 
+Remember a, b and c terms for the quadratic formula and that you need to add b^2 / 4 to both sides to complete the square
+3x^2 - 8x + 4 = 0 1,1.33
+The quadratic equation and completing the square are good for this 
+Remember a, b and c terms for the quadratic formula and that you need to add b^2 / 4 to both sides to complete the square
+6x^2 + 11x - 35 = 0 -3.5,1.66
+The quadratic equation and completing the square are good for this 
+Remember a, b and c terms for the quadratic formula and that you need to add b^2 / 4 to both sides to complete the square
